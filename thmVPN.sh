@@ -1,1 +1,0 @@
-sudo openvpn Documents/TryHackMe/R1L5TR4T5.ovpn
