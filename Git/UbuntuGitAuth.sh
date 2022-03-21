@@ -1,3 +1,5 @@
+# Deprecated. Use secretservice
+
 sudo apt install gnome-keyring
 cd /usr/share/doc/git/contrib/credential/gnome-keyring
 sudo make
