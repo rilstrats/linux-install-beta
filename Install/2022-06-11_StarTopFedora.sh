@@ -77,4 +77,5 @@ git push
 
 
 # Virualbox
-
+# Download binary from virtualbox website 
+sudo dnf install Virtual...
