@@ -55,12 +55,12 @@ sudo dnf install ./megasync-Fedora_36.x86_64.rpm
 mv ~/MEGA ~/Mega
 
 # The following lines are for a GNOME install
-wget https://mega.nz/linux/repo/Fedora_36/x86_64/nautilus-megasync-Fedora_36.x86_64.rpm
-sudo dnf install ./nautilus-megasync-Fedora_36.x86_64.rpm
+# wget https://mega.nz/linux/repo/Fedora_36/x86_64/nautilus-megasync-Fedora_36.x86_64.rpm
+# sudo dnf install ./nautilus-megasync-Fedora_36.x86_64.rpm
 
 # The following lines are for a KDE install
-# wget https://mega.nz/linux/repo/Fedora_36/x86_64/dolphin-megasync-Fedora_36.x86_64.rpm
-# sudo dnf install ./dolphin-megasync-Fedora_36.x86_64.rpm
+wget https://mega.nz/linux/repo/Fedora_36/x86_64/dolphin-megasync-Fedora_36.x86_64.rpm
+sudo dnf install ./dolphin-megasync-Fedora_36.x86_64.rpm
 
 # Open mega and sign in
 
