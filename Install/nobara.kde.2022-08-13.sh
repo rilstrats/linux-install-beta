@@ -22,6 +22,7 @@ chmod +x install-from-source.fedora.sh
 git-credential-manager-core configure
 
 # Git Configure
+# Might also need ksshaskpass for KDE installs
 git config --global credential.credentialStore secretservice
 git config --global user.email "riley.s.stratton@outlook.com"
 git config --global user.name "Riley Stratton"
